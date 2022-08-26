@@ -1,0 +1,2 @@
+# otrtex
+.otr texture manipulation
